@@ -107,26 +107,10 @@
 
 <br/>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=alemxgammer&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=katakurinna&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/katakurinna" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ----
